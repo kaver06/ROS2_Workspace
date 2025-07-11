@@ -1,0 +1,8 @@
+[0.000000] (-) TimerEvent: {}
+[0.003581] (-) JobUnselected: {'identifier': 'my_py_pkg'}
+[0.003658] (-) JobUnselected: {'identifier': 'my_robot_interfaces'}
+[0.003683] (-) JobUnselected: {'identifier': 'projects'}
+[0.003705] (my_cpp_pkg) JobQueued: {'identifier': 'my_cpp_pkg', 'dependencies': OrderedDict({'my_robot_interfaces': '/home/kaver06/ros2_ws/install/my_robot_interfaces'})}
+[0.006536] (my_cpp_pkg) JobStarted: {'identifier': 'my_cpp_pkg'}
+[0.033704] (my_cpp_pkg) JobEnded: {'identifier': 'my_cpp_pkg', 'rc': 1}
+[0.046255] (-) EventReactorShutdown: {}

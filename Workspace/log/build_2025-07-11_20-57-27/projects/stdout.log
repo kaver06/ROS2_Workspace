@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/projects/projects.egg-info
+writing ../../build/projects/projects.egg-info/PKG-INFO
+writing dependency_links to ../../build/projects/projects.egg-info/dependency_links.txt
+writing entry points to ../../build/projects/projects.egg-info/entry_points.txt
+writing requirements to ../../build/projects/projects.egg-info/requires.txt
+writing top-level names to ../../build/projects/projects.egg-info/top_level.txt
+writing manifest file '../../build/projects/projects.egg-info/SOURCES.txt'
+reading manifest file '../../build/projects/projects.egg-info/SOURCES.txt'
+writing manifest file '../../build/projects/projects.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kaver06/ros2_ws/build/projects/build
+creating /home/kaver06/ros2_ws/build/projects/build/lib
+creating /home/kaver06/ros2_ws/build/projects/build/lib/projects
+copying projects/__init__.py -> /home/kaver06/ros2_ws/build/projects/build/lib/projects
+copying projects/blue_teleop_car.py -> /home/kaver06/ros2_ws/build/projects/build/lib/projects
+running install
+running install_lib
+creating /home/kaver06/ros2_ws/install/projects/lib/python3.12/site-packages/projects
+copying /home/kaver06/ros2_ws/build/projects/build/lib/projects/__init__.py -> /home/kaver06/ros2_ws/install/projects/lib/python3.12/site-packages/projects
+copying /home/kaver06/ros2_ws/build/projects/build/lib/projects/blue_teleop_car.py -> /home/kaver06/ros2_ws/install/projects/lib/python3.12/site-packages/projects
+byte-compiling /home/kaver06/ros2_ws/install/projects/lib/python3.12/site-packages/projects/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/kaver06/ros2_ws/install/projects/lib/python3.12/site-packages/projects/blue_teleop_car.py to blue_teleop_car.cpython-312.pyc
+running install_data
+creating /home/kaver06/ros2_ws/install/projects/share/ament_index
+creating /home/kaver06/ros2_ws/install/projects/share/ament_index/resource_index
+creating /home/kaver06/ros2_ws/install/projects/share/ament_index/resource_index/packages
+copying resource/projects -> /home/kaver06/ros2_ws/install/projects/share/ament_index/resource_index/packages
+copying package.xml -> /home/kaver06/ros2_ws/install/projects/share/projects
+running install_egg_info
+Copying ../../build/projects/projects.egg-info to /home/kaver06/ros2_ws/install/projects/lib/python3.12/site-packages/projects-0.0.0-py3.12.egg-info
+running install_scripts
+Installing blue_teleop_car script to /home/kaver06/ros2_ws/install/projects/lib/projects
+writing list of installed files to '/home/kaver06/ros2_ws/build/projects/install.log'

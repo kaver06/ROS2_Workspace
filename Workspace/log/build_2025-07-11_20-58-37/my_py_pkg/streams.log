@@ -1,0 +1,31 @@
+[1.023s] Invoking command in '/home/kaver06/ros2_ws/src/my_py_pkg': AMENT_PREFIX_PATH=/home/kaver06/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kaver06/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/kaver06/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kaver06/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaver06/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:/home/kaver06/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/kaver06/ros2_ws/build/my_py_pkg/build install --record /home/kaver06/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data
+[1.320s] running egg_info
+[1.353s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[1.353s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[1.353s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[1.354s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[1.355s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[1.398s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.400s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.401s] running build
+[1.401s] running build_py
+[1.403s] running install
+[1.410s] running install_lib
+[1.435s] running install_data
+[1.438s] running install_egg_info
+[1.470s] removing '/home/kaver06/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[1.470s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/kaver06/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg-0.0.0-py3.12.egg-info
+[1.472s] running install_scripts
+[1.623s] Installing add_two_ints_client script to /home/kaver06/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.623s] Installing add_two_ints_client_no_oop script to /home/kaver06/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.628s] Installing add_two_ints_server script to /home/kaver06/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.635s] Installing battery script to /home/kaver06/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.636s] Installing hw_status_publisher script to /home/kaver06/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.642s] Installing led_panel script to /home/kaver06/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.642s] Installing number_counter script to /home/kaver06/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.645s] Installing number_publisher script to /home/kaver06/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.646s] Installing py_node script to /home/kaver06/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.646s] Installing robot_news_station script to /home/kaver06/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.646s] Installing smartphone script to /home/kaver06/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[1.646s] writing list of installed files to '/home/kaver06/ros2_ws/build/my_py_pkg/install.log'
+[1.674s] Invoked command in '/home/kaver06/ros2_ws/src/my_py_pkg' returned '0': AMENT_PREFIX_PATH=/home/kaver06/ros2_ws/install/my_robot_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kaver06/ros2_ws/install/my_robot_interfaces:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/kaver06/ros2_ws/install/my_robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kaver06/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaver06/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:/home/kaver06/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/kaver06/ros2_ws/build/my_py_pkg/build install --record /home/kaver06/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data
